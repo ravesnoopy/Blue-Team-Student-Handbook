@@ -1,4 +1,4 @@
-
+![banner](../Images/Handbook-student.png)
 
 # SOC Handbook
 
