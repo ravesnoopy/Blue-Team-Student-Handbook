@@ -1,1 +1,1 @@
-![banner](../Images/interviewread.png)
+![banner](../Images/Interviewread.png)
